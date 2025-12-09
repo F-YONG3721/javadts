@@ -1,0 +1,31 @@
+可擴充的遊戲能力系統（Buff/Debuff/觸發）。
+情境
+ARPG 遊戲「RuneRise」要快速上線新能力：暴擊給盾、光環攻擊加成、元素剋制等。設計需事件驅動、可疊加、可互斥、有冷卻。
+
+  輸入
+  •	Entity：角色（屬性、當前 Buff/Shield）
+  •	Ability：能力策略（如 CritShield(100, 10s)、AuraAtk(+10%, 5m)）
+  •	Events：OnCrit(attacker)、Tick()、OnDamageTaken(...)
+
+  輸出
+  •	StatContext：最終屬性（算過所有修飾）
+  •	BattleLog：觸發紀錄（何時加盾、何時套光環、何能力被互斥）
+  •	Entity 狀態：護盾值、當前 Buff 列表
+
+  期望輸出（例）
+  entity:
+        shield: 200, buffs:AURA_ATK_UP
+  log:
+    t:1,evt: OnCrit,ability:CRIT_SHIELD,effect:100 shield,
+    t:2,evt: OnCrit,ability:CRIT_SHIELD,effect:100 shield
+下面是導引教材與程式碼的UML圖
+下面是導引教材
+演進需求測資
+  1. 暴擊觸盾（無冷卻）：連續兩次 OnCrit → 盾 +200
+  2. 暴擊觸盾（有冷卻）：10s 冷卻 → 第二次在冷卻內不觸發
+  3. 光環：Tick 時兩名隊友在 5m 內 → 皆收到 +10% atk 修飾
+  4. 互斥規則：兩個同類攻擊光環（+10% 與 +15%）→ 只取較大者
+  5. 模式化：切換 PVP 模式（光環上限 5%）→ 驗證聚合器按模式收斂
+文字（需求與目標）
+  •	事件導向能力系統：能力可疊加/互斥/冷卻/時效；支援光環（隊友範圍）、元素相剋、PVE/PVP 模式化。
+  •	設計一致的衝突解析與上限（集中在聚

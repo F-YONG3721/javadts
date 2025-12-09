@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="801px" preserveAspectRatio="none" style="width:1572px;height:801px;background:#FFFFFF;" version="1.1" viewBox="0 0 1572 801" width="1572px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.2969" id="_title" style="stroke:none;stroke-width:1.0;" width="327" x="615.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="317" x="620.5" y="22.9951">RuneRise Ability System (Class Diagram)</text><!--MD5=[7153802aa763eb8df248d2c88b8b91a0]
+cluster game--><g id="cluster_game"><path d="M8.5,43.2969 L52.5,43.2969 A3.75,3.75 0 0 1 55,45.7969 L62,65.5938 L1562.5,65.5938 A2.5,2.5 0 0 1 1565,68.0938 L1565,791.7969 A2.5,2.5 0 0 1 1562.5,794.2969 L8.5,794.2969 A2.5,2.5 0 0 1 6,791.7969 L6,45.7969 A2.5,2.5 0 0 1 8.5,43.2969 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="62" y1="65.5938" y2="65.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="43" x="10" y="58.292">game</text></g><!--MD5=[b0c44e0e64a6db27fbfd3d416ed16570]
+class List_--><g id="elem_List_"><rect codeLine="6" fill="#F1F1F1" height="48" id="List_" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="62" x="964" y="118.7969"/><ellipse cx="979" cy="134.7969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M981.9688,140.4375 Q981.3906,140.7344 980.75,140.875 Q980.1094,141.0313 979.4063,141.0313 Q976.9063,141.0313 975.5781,139.3906 Q974.2656,137.7344 974.2656,134.6094 Q974.2656,131.4844 975.5781,129.8281 Q976.9063,128.1719 979.4063,128.1719 Q980.1094,128.1719 980.75,128.3281 Q981.4063,128.4844 981.9688,128.7813 L981.9688,131.5 Q981.3438,130.9219 980.75,130.6563 Q980.1563,130.375 979.5313,130.375 Q978.1875,130.375 977.5,131.4531 Q976.8125,132.5156 976.8125,134.6094 Q976.8125,136.7031 977.5,137.7813 Q978.1875,138.8438 979.5313,138.8438 Q980.1563,138.8438 980.75,138.5781 Q981.3438,138.2969 981.9688,137.7188 L981.9688,140.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="993" y="139.6436">List_</text><line style="stroke:#181818;stroke-width:0.5;" x1="965" x2="1025" y1="150.7969" y2="150.7969"/><line style="stroke:#181818;stroke-width:0.5;" x1="965" x2="1025" y1="158.7969" y2="158.7969"/></g><!--MD5=[d599b6ac30a10a7b1c17e437297954de]
+class Any--><g id="elem_Any"><rect codeLine="7" fill="#F1F1F1" height="48" id="Any" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="57" x="1061.5" y="118.7969"/><ellipse cx="1076.5" cy="134.7969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1079.4688,140.4375 Q1078.8906,140.7344 1078.25,140.875 Q1077.6094,141.0313 1076.9063,141.0313 Q1074.4063,141.0313 1073.0781,139.3906 Q1071.7656,137.7344 1071.7656,134.6094 Q1071.7656,131.4844 1073.0781,129.8281 Q1074.4063,128.1719 1076.9063,128.1719 Q1077.6094,128.1719 1078.25,128.3281 Q1078.9063,128.4844 1079.4688,128.7813 L1079.4688,131.5 Q1078.8438,130.9219 1078.25,130.6563 Q1077.6563,130.375 1077.0313,130.375 Q1075.6875,130.375 1075,131.4531 Q1074.3125,132.5156 1074.3125,134.6094 Q1074.3125,136.7031 1075,137.7813 Q1075.6875,138.8438 1077.0313,138.8438 Q1077.6563,138.8438 1078.25,138.5781 Q1078.8438,138.2969 1079.4688,137.7188 L1079.4688,140.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="1090.5" y="139.6436">Any</text><line style="stroke:#181818;stroke-width:0.5;" x1="1062.5" x2="1117.5" y1="150.7969" y2="150.7969"/><line style="stroke:#181818;stroke-width:0.5;" x1="1062.5" x2="1117.5" y1="158.7969" y2="158.7969"/></g><!--MD5=[5db376aa1d0a8d899f3f955800db82fb]
+class ClassRef_--><g id="elem_ClassRef_"><rect codeLine="8" fill="#F1F1F1" height="48" id="ClassRef_" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="99" x="1153.5" y="118.7969"/><ellipse cx="1168.5" cy="134.7969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1171.4688,140.4375 Q1170.8906,140.7344 1170.25,140.875 Q1169.6094,141.0313 1168.9063,141.0313 Q1166.4063,141.0313 1165.0781,139.3906 Q1163.7656,137.7344 1163.7656,134.6094 Q1163.7656,131.4844 1165.0781,129.8281 Q1166.4063,128.1719 1168.9063,128.1719 Q1169.6094,128.1719 1170.25,128.3281 Q1170.9063,128.4844 1171.4688,128.7813 L1171.4688,131.5 Q1170.8438,130.9219 1170.25,130.6563 Q1169.6563,130.375 1169.0313,130.375 Q1167.6875,130.375 1167,131.4531 Q1166.3125,132.5156 1166.3125,134.6094 Q1166.3125,136.7031 1167,137.7813 Q1167.6875,138.8438 1169.0313,138.8438 Q1169.6563,138.8438 1170.25,138.5781 Q1170.8438,138.2969 1171.4688,137.7188 L1171.4688,140.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="1182.5" y="139.6436">ClassRef_</text><line style="stroke:#181818;stroke-width:0.5;" x1="1154.5" x2="1251.5" y1="150.7969" y2="150.7969"/><line style="stroke:#181818;stroke-width:0.5;" x1="1154.5" x2="1251.5" y1="158.7969" y2="158.7969"/></g><!--MD5=[ff2794d37f4e77781983502721c870c0]
+class Func_--><g id="elem_Func_"><rect codeLine="9" fill="#F1F1F1" height="48" id="Func_" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="73" x="1287.5" y="118.7969"/><ellipse cx="1302.5" cy="134.7969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1305.4688,140.4375 Q1304.8906,140.7344 1304.25,140.875 Q1303.6094,141.0313 1302.9063,141.0313 Q1300.4063,141.0313 1299.0781,139.3906 Q1297.7656,137.7344 1297.7656,134.6094 Q1297.7656,131.4844 1299.0781,129.8281 Q1300.4063,128.1719 1302.9063,128.1719 Q1303.6094,128.1719 1304.25,128.3281 Q1304.9063,128.4844 1305.4688,128.7813 L1305.4688,131.5 Q1304.8438,130.9219 1304.25,130.6563 Q1303.6563,130.375 1303.0313,130.375 Q1301.6875,130.375 1301,131.4531 Q1300.3125,132.5156 1300.3125,134.6094 Q1300.3125,136.7031 1301,137.7813 Q1301.6875,138.8438 1303.0313,138.8438 Q1303.6563,138.8438 1304.25,138.5781 Q1304.8438,138.2969 1305.4688,137.7188 L1305.4688,140.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="1316.5" y="139.6436">Func_</text><line style="stroke:#181818;stroke-width:0.5;" x1="1288.5" x2="1359.5" y1="150.7969" y2="150.7969"/><line style="stroke:#181818;stroke-width:0.5;" x1="1288.5" x2="1359.5" y1="158.7969" y2="158.7969"/></g><!--MD5=[3740fd0d478034b2e3eba34b86ce3e4e]
+class StatContext--><g id="elem_StatContext"><rect codeLine="12" fill="#F1F1F1" height="48" id="StatContext" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="113" x="938.5" y="349.2969"/><ellipse cx="953.5" cy="365.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M956.4688,370.9375 Q955.8906,371.2344 955.25,371.375 Q954.6094,371.5313 953.9063,371.5313 Q951.4063,371.5313 950.0781,369.8906 Q948.7656,368.2344 948.7656,365.1094 Q948.7656,361.9844 950.0781,360.3281 Q951.4063,358.6719 953.9063,358.6719 Q954.6094,358.6719 955.25,358.8281 Q955.9063,358.9844 956.4688,359.2813 L956.4688,362 Q955.8438,361.4219 955.25,361.1563 Q954.6563,360.875 954.0313,360.875 Q952.6875,360.875 952,361.9531 Q951.3125,363.0156 951.3125,365.1094 Q951.3125,367.2031 952,368.2813 Q952.6875,369.3438 954.0313,369.3438 Q954.6563,369.3438 955.25,369.0781 Q955.8438,368.7969 956.4688,368.2188 L956.4688,370.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="967.5" y="370.1436">StatContext</text><line style="stroke:#181818;stroke-width:0.5;" x1="939.5" x2="1050.5" y1="381.2969" y2="381.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="939.5" x2="1050.5" y1="389.2969" y2="389.2969"/></g><!--MD5=[404a904e157bc2a6e44a5d8b2f69a529]
+class MyModifier--><g id="elem_MyModifier"><rect codeLine="13" fill="#F1F1F1" height="64.2969" id="MyModifier" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="190" x="1087" y="341.2969"/><ellipse cx="1141.25" cy="357.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1144.2188,362.9375 Q1143.6406,363.2344 1143,363.375 Q1142.3594,363.5313 1141.6563,363.5313 Q1139.1563,363.5313 1137.8281,361.8906 Q1136.5156,360.2344 1136.5156,357.1094 Q1136.5156,353.9844 1137.8281,352.3281 Q1139.1563,350.6719 1141.6563,350.6719 Q1142.3594,350.6719 1143,350.8281 Q1143.6563,350.9844 1144.2188,351.2813 L1144.2188,354 Q1143.5938,353.4219 1143,353.1563 Q1142.4063,352.875 1141.7813,352.875 Q1140.4375,352.875 1139.75,353.9531 Q1139.0625,355.0156 1139.0625,357.1094 Q1139.0625,359.2031 1139.75,360.2813 Q1140.4375,361.3438 1141.7813,361.3438 Q1142.4063,361.3438 1143,361.0781 Q1143.5938,360.7969 1144.2188,360.2188 L1144.2188,362.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="1161.75" y="362.1436">MyModifier</text><line style="stroke:#181818;stroke-width:0.5;" x1="1088" x2="1276" y1="373.2969" y2="373.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="1088" x2="1276" y1="381.2969" y2="381.2969"/><ellipse cx="1098" cy="394.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="1107" y="398.292">attackMul(rate : double)</text></g><!--MD5=[f50be40ea784a6076e17c593bf1e00ba]
+class GameEventBus--><g id="elem_GameEventBus"><rect codeLine="17" fill="#F1F1F1" height="80.5938" id="GameEventBus" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="328" x="154" y="523.2969"/><ellipse cx="260.25" cy="539.2969" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M256.1719,535.0625 L256.1719,532.9063 L263.5625,532.9063 L263.5625,535.0625 L261.0938,535.0625 L261.0938,543.1406 L263.5625,543.1406 L263.5625,545.2969 L256.1719,545.2969 L256.1719,543.1406 L258.6406,543.1406 L258.6406,535.0625 L256.1719,535.0625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="107" x="280.75" y="544.1436">GameEventBus</text><line style="stroke:#181818;stroke-width:0.5;" x1="155" x2="481" y1="555.2969" y2="555.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="155" x2="481" y1="563.2969" y2="563.2969"/><ellipse cx="165" cy="576.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="174" y="580.292">publish(e : Any)</text><ellipse cx="165" cy="593.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="302" x="174" y="596.5889">subscribe(type : ClassRef_, handler : Func_)</text></g><!--MD5=[6e955c9043c27cdc647b8f26c6a65600]
+class AreaService--><g id="elem_AreaService"><rect codeLine="22" fill="#F1F1F1" height="64.2969" id="AreaService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="341" x="517.5" y="531.7969"/><ellipse cx="643.25" cy="547.7969" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M639.1719,543.5625 L639.1719,541.4063 L646.5625,541.4063 L646.5625,543.5625 L644.0938,543.5625 L644.0938,551.6406 L646.5625,551.6406 L646.5625,553.7969 L639.1719,553.7969 L639.1719,551.6406 L641.6406,551.6406 L641.6406,543.5625 L639.1719,543.5625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="81" x="663.75" y="552.6436">AreaService</text><line style="stroke:#181818;stroke-width:0.5;" x1="518.5" x2="857.5" y1="563.7969" y2="563.7969"/><line style="stroke:#181818;stroke-width:0.5;" x1="518.5" x2="857.5" y1="571.7969" y2="571.7969"/><ellipse cx="528.5" cy="585.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="315" x="537.5" y="588.792">alliesWithin(self : Entity, radius : double) : List_</text></g><!--MD5=[ebf0ba101bb2ce148d787304f58c12d9]
+class GameContext--><g id="elem_GameContext"><rect codeLine="26" fill="#F1F1F1" height="96.8906" id="GameContext" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="172" x="284" y="324.7969"/><ellipse cx="319.25" cy="340.7969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M322.2188,346.4375 Q321.6406,346.7344 321,346.875 Q320.3594,347.0313 319.6563,347.0313 Q317.1563,347.0313 315.8281,345.3906 Q314.5156,343.7344 314.5156,340.6094 Q314.5156,337.4844 315.8281,335.8281 Q317.1563,334.1719 319.6563,334.1719 Q320.3594,334.1719 321,334.3281 Q321.6563,334.4844 322.2188,334.7813 L322.2188,337.5 Q321.5938,336.9219 321,336.6563 Q320.4063,336.375 319.7813,336.375 Q318.4375,336.375 317.75,337.4531 Q317.0625,338.5156 317.0625,340.6094 Q317.0625,342.7031 317.75,343.7813 Q318.4375,344.8438 319.7813,344.8438 Q320.4063,344.8438 321,344.5781 Q321.5938,344.2969 322.2188,343.7188 L322.2188,346.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="337.75" y="345.6436">GameContext</text><line style="stroke:#181818;stroke-width:0.5;" x1="285" x2="455" y1="356.7969" y2="356.7969"/><ellipse cx="295" cy="370.4453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="146" x="304" y="373.792">bus : GameEventBus</text><ellipse cx="295" cy="386.7422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="304" y="390.0889">area : AreaService</text><ellipse cx="295" cy="403.0391" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="304" y="406.3857">mode : Mode</text><line style="stroke:#181818;stroke-width:0.5;" x1="285" x2="455" y1="413.6875" y2="413.6875"/></g><!--MD5=[6503e9964510e8b83256f8f5e7109bf1]
+class Mode--><g id="elem_Mode"><rect codeLine="32" fill="#F1F1F1" height="80.5938" id="Mode" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="71" x="1312.5" y="332.7969"/><ellipse cx="1327.5" cy="348.7969" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1331.6094,354.7969 L1323.8906,354.7969 L1323.8906,342.4063 L1331.6094,342.4063 L1331.6094,344.5625 L1326.3438,344.5625 L1326.3438,347.2344 L1331.1094,347.2344 L1331.1094,349.3906 L1326.3438,349.3906 L1326.3438,352.6406 L1331.6094,352.6406 L1331.6094,354.7969 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="39" x="1341.5" y="353.6436">Mode</text><line style="stroke:#181818;stroke-width:0.5;" x1="1313.5" x2="1382.5" y1="364.7969" y2="364.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="1318.5" y="381.792">PVE</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="1318.5" y="398.0889">PVP</text><line style="stroke:#181818;stroke-width:0.5;" x1="1313.5" x2="1382.5" y1="405.3906" y2="405.3906"/></g><!--MD5=[01d9498851c06181e99004f26047e88b]
+class BuffCategory--><g id="elem_BuffCategory"><rect codeLine="37" fill="#F1F1F1" height="113.1875" id="BuffCategory" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="121" x="1418.5" y="316.7969"/><ellipse cx="1433.5" cy="332.7969" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1437.6094,338.7969 L1429.8906,338.7969 L1429.8906,326.4063 L1437.6094,326.4063 L1437.6094,328.5625 L1432.3438,328.5625 L1432.3438,331.2344 L1437.1094,331.2344 L1437.1094,333.3906 L1432.3438,333.3906 L1432.3438,336.6406 L1437.6094,336.6406 L1437.6094,338.7969 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="1447.5" y="337.6436">BuffCategory</text><line style="stroke:#181818;stroke-width:0.5;" x1="1419.5" x2="1538.5" y1="348.7969" y2="348.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="1424.5" y="365.792">ATTACK_AURA</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="1424.5" y="382.0889">SHIELD</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="1424.5" y="398.3857">DEBUFF</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="1424.5" y="414.6826">OTHER</text><line style="stroke:#181818;stroke-width:0.5;" x1="1419.5" x2="1538.5" y1="421.9844" y2="421.9844"/></g><!--MD5=[d5be0bc52447acb34411992cc584d57b]
+class CooldownPolicy--><g id="elem_CooldownPolicy"><rect codeLine="44" fill="#F1F1F1" height="80.5938" id="CooldownPolicy" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="203" x="893.5" y="523.2969"/><ellipse cx="936.85" cy="539.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M939.8188,544.9375 Q939.2406,545.2344 938.6,545.375 Q937.9594,545.5313 937.2563,545.5313 Q934.7563,545.5313 933.4281,543.8906 Q932.1156,542.2344 932.1156,539.1094 Q932.1156,535.9844 933.4281,534.3281 Q934.7563,532.6719 937.2563,532.6719 Q937.9594,532.6719 938.6,532.8281 Q939.2563,532.9844 939.8188,533.2813 L939.8188,536 Q939.1938,535.4219 938.6,535.1563 Q938.0063,534.875 937.3813,534.875 Q936.0375,534.875 935.35,535.9531 Q934.6625,537.0156 934.6625,539.1094 Q934.6625,541.2031 935.35,542.2813 Q936.0375,543.3438 937.3813,543.3438 Q938.0063,543.3438 938.6,543.0781 Q939.1938,542.7969 939.8188,542.2188 L939.8188,544.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="957.15" y="544.1436">CooldownPolicy</text><line style="stroke:#181818;stroke-width:0.5;" x1="894.5" x2="1095.5" y1="555.2969" y2="555.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="894.5" x2="1095.5" y1="563.2969" y2="563.2969"/><ellipse cx="904.5" cy="576.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="913.5" y="580.292">ready(e : Entity) : boolean</text><ellipse cx="904.5" cy="593.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="913.5" y="596.5889">consume(e : Entity)</text></g><!--MD5=[8c1fad782a59b8054c37cd5fb6306bb8]
+class BattleLog--><g id="elem_BattleLog"><rect codeLine="49" fill="#F1F1F1" height="48" id="BattleLog" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="97" x="21.5" y="539.7969"/><ellipse cx="36.5" cy="555.7969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M39.4688,561.4375 Q38.8906,561.7344 38.25,561.875 Q37.6094,562.0313 36.9063,562.0313 Q34.4063,562.0313 33.0781,560.3906 Q31.7656,558.7344 31.7656,555.6094 Q31.7656,552.4844 33.0781,550.8281 Q34.4063,549.1719 36.9063,549.1719 Q37.6094,549.1719 38.25,549.3281 Q38.9063,549.4844 39.4688,549.7813 L39.4688,552.5 Q38.8438,551.9219 38.25,551.6563 Q37.6563,551.375 37.0313,551.375 Q35.6875,551.375 35,552.4531 Q34.3125,553.5156 34.3125,555.6094 Q34.3125,557.7031 35,558.7813 Q35.6875,559.8438 37.0313,559.8438 Q37.6563,559.8438 38.25,559.5781 Q38.8438,559.2969 39.4688,558.7188 L39.4688,561.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="50.5" y="560.6436">BattleLog</text><line style="stroke:#181818;stroke-width:0.5;" x1="22.5" x2="117.5" y1="571.7969" y2="571.7969"/><line style="stroke:#181818;stroke-width:0.5;" x1="22.5" x2="117.5" y1="579.7969" y2="579.7969"/></g><!--MD5=[cb32f8b1b756f5d42df70837c47813f1]
+class LogEntry--><g id="elem_LogEntry"><rect codeLine="50" fill="#F1F1F1" height="113.1875" id="LogEntry" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="118" x="22" y="665.2969"/><ellipse cx="48.7" cy="681.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M51.6688,686.9375 Q51.0906,687.2344 50.45,687.375 Q49.8094,687.5313 49.1063,687.5313 Q46.6063,687.5313 45.2781,685.8906 Q43.9656,684.2344 43.9656,681.1094 Q43.9656,677.9844 45.2781,676.3281 Q46.6063,674.6719 49.1063,674.6719 Q49.8094,674.6719 50.45,674.8281 Q51.1063,674.9844 51.6688,675.2813 L51.6688,678 Q51.0438,677.4219 50.45,677.1563 Q49.8563,676.875 49.2313,676.875 Q47.8875,676.875 47.2,677.9531 Q46.5125,679.0156 46.5125,681.1094 Q46.5125,683.2031 47.2,684.2813 Q47.8875,685.3438 49.2313,685.3438 Q49.8563,685.3438 50.45,685.0781 Q51.0438,684.7969 51.6688,684.2188 L51.6688,686.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="65.3" y="686.1436">LogEntry</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="139" y1="697.2969" y2="697.2969"/><ellipse cx="33" cy="710.9453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="42" y="714.292">t : int</text><ellipse cx="33" cy="727.2422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="42" y="730.5889">evt : String</text><ellipse cx="33" cy="743.5391" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="42" y="746.8857">ability : String</text><ellipse cx="33" cy="759.8359" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="42" y="763.1826">effect : String</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="139" y1="770.4844" y2="770.4844"/></g><!--MD5=[be996cdb8e6bf2fc7cb89c555f2cd144]
+class Entity--><g id="elem_Entity"><rect codeLine="58" fill="#F1F1F1" height="178.375" id="Entity" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="225" x="23.5" y="284.2969"/><ellipse cx="112.75" cy="300.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M115.7188,305.9375 Q115.1406,306.2344 114.5,306.375 Q113.8594,306.5313 113.1563,306.5313 Q110.6563,306.5313 109.3281,304.8906 Q108.0156,303.2344 108.0156,300.1094 Q108.0156,296.9844 109.3281,295.3281 Q110.6563,293.6719 113.1563,293.6719 Q113.8594,293.6719 114.5,293.8281 Q115.1563,293.9844 115.7188,294.2813 L115.7188,297 Q115.0938,296.4219 114.5,296.1563 Q113.9063,295.875 113.2813,295.875 Q111.9375,295.875 111.25,296.9531 Q110.5625,298.0156 110.5625,300.1094 Q110.5625,302.2031 111.25,303.2813 Q111.9375,304.3438 113.2813,304.3438 Q113.9063,304.3438 114.5,304.0781 Q115.0938,303.7969 115.7188,303.2188 L115.7188,305.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="133.25" y="305.1436">Entity</text><line style="stroke:#181818;stroke-width:0.5;" x1="24.5" x2="247.5" y1="316.2969" y2="316.2969"/><ellipse cx="34.5" cy="329.9453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="43.5" y="333.292">shield : int</text><ellipse cx="34.5" cy="346.2422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="43.5" y="349.5889">buffs : List_</text><ellipse cx="34.5" cy="362.5391" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="43.5" y="365.8857">abilities : List_</text><ellipse cx="34.5" cy="378.8359" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="43.5" y="382.1826">log : BattleLog</text><line style="stroke:#181818;stroke-width:0.5;" x1="24.5" x2="247.5" y1="389.4844" y2="389.4844"/><ellipse cx="34.5" cy="403.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="43.5" y="406.4795">addAbility(a : Ability)</text><ellipse cx="34.5" cy="419.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="43.5" y="422.7764">removeAbility(a : Ability)</text><ellipse cx="34.5" cy="435.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="43.5" y="439.0732">applyModifier(m : MyModifier)</text><ellipse cx="34.5" cy="452.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="43.5" y="455.3701">addShield(amount : int)</text></g><!--MD5=[bffffc91ea6363a28ee965dd72c463ae]
+class Ability--><g id="elem_Ability"><rect codeLine="70" fill="#F1F1F1" height="129.4844" id="Ability" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="315" x="22.5" y="78.2969"/><ellipse cx="156.25" cy="94.2969" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M152.1719,90.0625 L152.1719,87.9063 L159.5625,87.9063 L159.5625,90.0625 L157.0938,90.0625 L157.0938,98.1406 L159.5625,98.1406 L159.5625,100.2969 L152.1719,100.2969 L152.1719,98.1406 L154.6406,98.1406 L154.6406,90.0625 L152.1719,90.0625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="39" x="176.75" y="99.1436">Ability</text><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="336.5" y1="110.2969" y2="110.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="336.5" y1="118.2969" y2="118.2969"/><ellipse cx="33.5" cy="131.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="42.5" y="135.292">id() : String</text><ellipse cx="33.5" cy="148.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="172" x="42.5" y="151.5889">category() : BuffCategory</text><ellipse cx="33.5" cy="164.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="283" x="42.5" y="167.8857">onAttach(self : Entity, ctx : GameContext)</text><ellipse cx="33.5" cy="180.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="289" x="42.5" y="184.1826">onDetach(self : Entity, ctx : GameContext)</text><ellipse cx="33.5" cy="197.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="277" x="42.5" y="200.4795">modify(stats : StatContext) : StatContext</text></g><!--MD5=[967a6dc0fde892f914ff6e400f895559]
+class OnCrit--><g id="elem_OnCrit"><rect codeLine="79" fill="#F1F1F1" height="64.2969" id="OnCrit" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="133" x="1131.5" y="531.7969"/><ellipse cx="1172.6" cy="547.7969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1175.5688,553.4375 Q1174.9906,553.7344 1174.35,553.875 Q1173.7094,554.0313 1173.0063,554.0313 Q1170.5063,554.0313 1169.1781,552.3906 Q1167.8656,550.7344 1167.8656,547.6094 Q1167.8656,544.4844 1169.1781,542.8281 Q1170.5063,541.1719 1173.0063,541.1719 Q1173.7094,541.1719 1174.35,541.3281 Q1175.0063,541.4844 1175.5688,541.7813 L1175.5688,544.5 Q1174.9438,543.9219 1174.35,543.6563 Q1173.7563,543.375 1173.1313,543.375 Q1171.7875,543.375 1171.1,544.4531 Q1170.4125,545.5156 1170.4125,547.6094 Q1170.4125,549.7031 1171.1,550.7813 Q1171.7875,551.8438 1173.1313,551.8438 Q1173.7563,551.8438 1174.35,551.5781 Q1174.9438,551.2969 1175.5688,550.7188 L1175.5688,553.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="1192.4" y="552.6436">OnCrit</text><line style="stroke:#181818;stroke-width:0.5;" x1="1132.5" x2="1263.5" y1="563.7969" y2="563.7969"/><ellipse cx="1142.5" cy="577.4453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="1151.5" y="580.792">attacker : Entity</text><line style="stroke:#181818;stroke-width:0.5;" x1="1132.5" x2="1263.5" y1="588.0938" y2="588.0938"/></g><!--MD5=[54578e411d2812d80a0f7a9be075f380]
+class Tick--><g id="elem_Tick"><rect codeLine="82" fill="#F1F1F1" height="48" id="Tick" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="60" x="1300" y="539.7969"/><ellipse cx="1315" cy="555.7969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1317.9688,561.4375 Q1317.3906,561.7344 1316.75,561.875 Q1316.1094,562.0313 1315.4063,562.0313 Q1312.9063,562.0313 1311.5781,560.3906 Q1310.2656,558.7344 1310.2656,555.6094 Q1310.2656,552.4844 1311.5781,550.8281 Q1312.9063,549.1719 1315.4063,549.1719 Q1316.1094,549.1719 1316.75,549.3281 Q1317.4063,549.4844 1317.9688,549.7813 L1317.9688,552.5 Q1317.3438,551.9219 1316.75,551.6563 Q1316.1563,551.375 1315.5313,551.375 Q1314.1875,551.375 1313.5,552.4531 Q1312.8125,553.5156 1312.8125,555.6094 Q1312.8125,557.7031 1313.5,558.7813 Q1314.1875,559.8438 1315.5313,559.8438 Q1316.1563,559.8438 1316.75,559.5781 Q1317.3438,559.2969 1317.9688,558.7188 L1317.9688,561.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="1329" y="560.6436">Tick</text><line style="stroke:#181818;stroke-width:0.5;" x1="1301" x2="1359" y1="571.7969" y2="571.7969"/><line style="stroke:#181818;stroke-width:0.5;" x1="1301" x2="1359" y1="579.7969" y2="579.7969"/></g><!--MD5=[1adf7c42a835dfc9b9d3f65d11b8c8ce]
+class OnDamageTaken--><g id="elem_OnDamageTaken"><rect codeLine="83" fill="#F1F1F1" height="80.5938" id="OnDamageTaken" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="153" x="1395.5" y="523.2969"/><ellipse cx="1410.5" cy="539.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1413.4688,544.9375 Q1412.8906,545.2344 1412.25,545.375 Q1411.6094,545.5313 1410.9063,545.5313 Q1408.4063,545.5313 1407.0781,543.8906 Q1405.7656,542.2344 1405.7656,539.1094 Q1405.7656,535.9844 1407.0781,534.3281 Q1408.4063,532.6719 1410.9063,532.6719 Q1411.6094,532.6719 1412.25,532.8281 Q1412.9063,532.9844 1413.4688,533.2813 L1413.4688,536 Q1412.8438,535.4219 1412.25,535.1563 Q1411.6563,534.875 1411.0313,534.875 Q1409.6875,534.875 1409,535.9531 Q1408.3125,537.0156 1408.3125,539.1094 Q1408.3125,541.2031 1409,542.2813 Q1409.6875,543.3438 1411.0313,543.3438 Q1411.6563,543.3438 1412.25,543.0781 Q1412.8438,542.7969 1413.4688,542.2188 L1413.4688,544.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="1424.5" y="544.1436">OnDamageTaken</text><line style="stroke:#181818;stroke-width:0.5;" x1="1396.5" x2="1547.5" y1="555.2969" y2="555.2969"/><ellipse cx="1406.5" cy="568.9453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="1415.5" y="572.292">target : Entity</text><ellipse cx="1406.5" cy="585.2422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="1415.5" y="588.5889">amount : int</text><line style="stroke:#181818;stroke-width:0.5;" x1="1396.5" x2="1547.5" y1="595.8906" y2="595.8906"/></g><!--MD5=[59c00c0b5508ca0d798cf115592ba984]
+link Entity to Ability--><g id="link_Entity_Ability"><path codeLine="89" d="M152.96,284.2269 C157.54,260.4469 162.43,235.0669 166.77,212.5169 " fill="none" id="Entity-to-Ability" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="167.74,207.4469,162.1158,215.532,166.7979,212.3573,169.9725,217.0394,167.74,207.4469" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="162" y="250.3638">has</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="141.9928" y="227.8358">0..*</text></g><!--MD5=[01cbb268e391116958f43081635679c7]
+link Ability to Entity--><g id="link_Ability_Entity"><path codeLine="94" d="M158.48,207.5069 C155.65,217.3969 153.03,227.5669 151,237.2969 C148.21,250.6569 145.92,264.8869 144.04,278.8969 " fill="none" id="Ability-to-Entity" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="143.36,284.0469,148.508,275.6506,144.0171,279.0902,140.5774,274.5993,143.36,284.0469" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cb857a1f03936bcfd1f669cac923e33e]
+link Entity to BattleLog--><g id="link_Entity_BattleLog"><path codeLine="90" d="M105.13,462.4769 C95.97,488.6269 86.6,515.3969 79.84,534.6969 " fill="none" id="Entity-to-BattleLog" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="78.18,539.4369,84.9189,532.2544,79.8254,534.7154,77.3645,529.6218,78.18,539.4369" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4b43cb4dc4cfb01faa72057833814dad]
+link BattleLog to LogEntry--><g id="link_BattleLog_LogEntry"><path codeLine="91" d="M71.62,587.8169 C72.96,606.8069 74.92,634.6469 76.71,659.9469 " fill="none" id="BattleLog-to-LogEntry" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="77.06,664.9669,80.4067,655.7041,76.7027,659.9797,72.4272,656.2757,77.06,664.9669" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="52.1783" y="654.1902">0..*</text></g><!--MD5=[17c9379fbdfb2abab5e1a452c2730f61]
+link Ability to GameContext--><g id="link_Ability_GameContext"><path codeLine="93" d="M232.93,207.4469 C262.58,243.1069 299.08,287.0069 326.96,320.5269 " fill="none" id="Ability-to-GameContext" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="330.31,324.5669,327.6455,315.0853,327.1189,320.7176,321.4867,320.191,330.31,324.5669" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[88a5b91dfe54bf7d4a14c9757057686c]
+link GameContext to GameEventBus--><g id="link_GameContext_GameEventBus"><path codeLine="96" d="M356.88,421.8669 C348.72,451.4569 338.29,489.2569 330.29,518.2569 " fill="none" id="GameContext-to-GameEventBus" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="328.92,523.2069,335.1701,515.5953,330.2501,518.387,327.4583,513.4671,328.92,523.2069" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7d83e70be5b5c8206709e242641fae89]
+link GameContext to AreaService--><g id="link_GameContext_AreaService"><path codeLine="97" d="M450.24,421.8669 C506.5,455.2169 580.36,498.9969 630.74,528.8569 " fill="none" id="GameContext-to-AreaService" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="635.23,531.5169,629.5193,523.4927,630.9262,528.9718,625.4471,530.3787,635.23,531.5169" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[824b9a9be15ee340d9a10d24935d0db9]
+@startuml
+title RuneRise Ability System (Class Diagram)
+
+package game {
+
+  ' === Placeholder types ===
+  class List_
+  class Any
+  class ClassRef_
+  class Func_
+
+  ' ===== Core Value / Infra =====
+  class StatContext
+  class MyModifier {
+    +attackMul(rate : double)
+  }
+
+  interface GameEventBus {
+    +publish(e : Any)
+    +subscribe(type : ClassRef_, handler : Func_)
+  }
+
+  interface AreaService {
+    +alliesWithin(self : Entity, radius : double) : List_
+  }
+
+  class GameContext {
+    +bus : GameEventBus
+    +area : AreaService
+    +mode : Mode
+  }
+
+  enum Mode {
+    PVE
+    PVP
+  }
+
+  enum BuffCategory {
+    ATTACK_AURA
+    SHIELD
+    DEBUFF
+    OTHER
+  }
+
+  class CooldownPolicy {
+    +ready(e : Entity) : boolean
+    +consume(e : Entity)
+  }
+
+  class BattleLog
+  class LogEntry {
+    +t : int
+    +evt : String
+    +ability : String
+    +effect : String
+  }
+
+  ' ===== Domain Root =====
+  class Entity {
+    +shield : int
+    +buffs : List_
+    +abilities : List_
+    +log : BattleLog
+    +addAbility(a : Ability)
+    +removeAbility(a : Ability)
+    +applyModifier(m : MyModifier)
+    +addShield(amount : int)
+  }
+
+  ' ===== Ability SPI =====
+  interface Ability {
+    +id() : String
+    +category() : BuffCategory
+    +onAttach(self : Entity, ctx : GameContext)
+    +onDetach(self : Entity, ctx : GameContext)
+    +modify(stats : StatContext) : StatContext
+  }
+
+  ' ===== Events =====
+  class OnCrit {
+    +attacker : Entity
+  }
+  class Tick
+  class OnDamageTaken {
+    +target : Entity
+    +amount : int
+  }
+
+  ' ===== Relationships =====
+  Entity - -> "0..*" Ability : has
+  Entity - -> BattleLog
+  BattleLog - -> "0..*" LogEntry
+
+  Ability - -> GameContext
+  Ability - -> Entity
+
+  GameContext - -> GameEventBus
+  GameContext - -> AreaService
+}
+@enduml
+
+@startuml
+title RuneRise Ability System (Class Diagram)
+
+package game {
+
+  class List_
+  class Any
+  class ClassRef_
+  class Func_
+
+  class StatContext
+  class MyModifier {
+    +attackMul(rate : double)
+  }
+
+  interface GameEventBus {
+    +publish(e : Any)
+    +subscribe(type : ClassRef_, handler : Func_)
+  }
+
+  interface AreaService {
+    +alliesWithin(self : Entity, radius : double) : List_
+  }
+
+  class GameContext {
+    +bus : GameEventBus
+    +area : AreaService
+    +mode : Mode
+  }
+
+  enum Mode {
+    PVE
+    PVP
+  }
+
+  enum BuffCategory {
+    ATTACK_AURA
+    SHIELD
+    DEBUFF
+    OTHER
+  }
+
+  class CooldownPolicy {
+    +ready(e : Entity) : boolean
+    +consume(e : Entity)
+  }
+
+  class BattleLog
+  class LogEntry {
+    +t : int
+    +evt : String
+    +ability : String
+    +effect : String
+  }
+
+  class Entity {
+    +shield : int
+    +buffs : List_
+    +abilities : List_
+    +log : BattleLog
+    +addAbility(a : Ability)
+    +removeAbility(a : Ability)
+    +applyModifier(m : MyModifier)
+    +addShield(amount : int)
+  }
+
+  interface Ability {
+    +id() : String
+    +category() : BuffCategory
+    +onAttach(self : Entity, ctx : GameContext)
+    +onDetach(self : Entity, ctx : GameContext)
+    +modify(stats : StatContext) : StatContext
+  }
+
+  class OnCrit {
+    +attacker : Entity
+  }
+  class Tick
+  class OnDamageTaken {
+    +target : Entity
+    +amount : int
+  }
+
+  Entity - -> "0..*" Ability : has
+  Entity - -> BattleLog
+  BattleLog - -> "0..*" LogEntry
+
+  Ability - -> GameContext
+  Ability - -> Entity
+
+  GameContext - -> GameEventBus
+  GameContext - -> AreaService
+}
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
